@@ -184,7 +184,7 @@ impl UIContext {
         gtk_app.connect_startup(move |app| {
             let accels_per_action: Vec<(&str, Vec<&str>)> = vec![
                 ("open-media", vec!["<Primary>o"]),
-                ("quit", vec!["<Primary>q"]),
+                ("quit", vec!["<Primary>q", "q", "<Primary>w"]),
                 ("fullscreen", vec!["<Primary>f", "F", "F11"]),
                 ("restore", vec!["Escape"]),
                 ("pause", vec!["space"]),

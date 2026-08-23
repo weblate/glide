@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the glide package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: glide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-15 12:51+0200\n"
+"POT-Creation-Date: 2026-08-23 14:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,7 +85,7 @@ msgstr ""
 msgid "Window"
 msgstr ""
 
-#: data/net.base_art.Glide.ui:76 data/net.base_art.Glide.ui:481
+#: data/net.base_art.Glide.ui:76 data/net.base_art.Glide.ui:493
 msgid "Track synchronization"
 msgstr ""
 
@@ -150,31 +150,32 @@ msgstr ""
 msgid "Exit from fullscreen mode"
 msgstr ""
 
-#: data/net.base_art.Glide.ui:361
+#: data/net.base_art.Glide.ui:361 data/net.base_art.Glide.ui:367
+#: data/net.base_art.Glide.ui:373
 msgid "Exit from the application"
 msgstr ""
 
-#: data/net.base_art.Glide.ui:367
+#: data/net.base_art.Glide.ui:379
 msgid "Load a subtitle file"
 msgstr ""
 
-#: data/net.base_art.Glide.ui:373
+#: data/net.base_art.Glide.ui:385
 msgid "Open a new media file"
 msgstr ""
 
-#: data/net.base_art.Glide.ui:394
+#: data/net.base_art.Glide.ui:406
 msgid "Audio track synchronization"
 msgstr ""
 
-#: data/net.base_art.Glide.ui:408 data/net.base_art.Glide.ui:442
+#: data/net.base_art.Glide.ui:420 data/net.base_art.Glide.ui:454
 msgid "Delay in seconds"
 msgstr ""
 
-#: data/net.base_art.Glide.ui:428
+#: data/net.base_art.Glide.ui:440
 msgid "Subtitle track synchronization"
 msgstr ""
 
-#: data/net.base_art.Glide.ui:465
+#: data/net.base_art.Glide.ui:477
 msgid "Close"
 msgstr ""
 

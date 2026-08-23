@@ -91,7 +91,7 @@ also some keyboard shortcuts for these actions:
 - seek backward: meta-left or ctrl-left or scroll-left (works on touchpads only)
 - switch to fullscreen: meta-f or ctrl-f or f or F11
 - exit from fullscreen: escape
-- quit the application: meta-q or ctrl-q
+- quit the application: meta-q or ctrl-q or meta-w or ctrl-w or q
 - load a subtitle file: meta-s or ctrl-s
 - increase volume: meta-up or ctrl-up
 - decrease volume: meta-up or ctrl-down
