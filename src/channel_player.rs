@@ -705,21 +705,15 @@ impl ChannelPlayer {
     pub fn increase_volume(&self) {
         let value = self.player.volume();
         let offset = 0.07;
-        if value + offset < 1.0 {
-            self.player.set_volume(value + offset);
-        } else {
-            self.player.set_volume(1.0);
-        }
+        let volume = if value + offset < 1.0 { value + offset } else { 1.0 };
+        self.set_volume(volume);
     }
 
     pub fn decrease_volume(&self) {
         let value = self.player.volume();
         let offset = 0.07;
-        if value >= offset {
-            self.player.set_volume(value - offset);
-        } else {
-            self.player.set_volume(0.0);
-        }
+        let volume = if value >= offset { value - offset } else { 0.0 };
+        self.set_volume(volume);
     }
 
     pub fn toggle_mute(&self, enabled: bool) {
