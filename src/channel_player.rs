@@ -1002,7 +1002,7 @@ impl ChannelPlayer {
         tar_path
             .into_os_string()
             .into_string()
-            .map_err(|e| anyhow::anyhow!(format!("{}", e.to_str().unwrap())))
+            .map_err(|e| anyhow::anyhow!("{}", e.to_str().unwrap()))
     }
 }
 
