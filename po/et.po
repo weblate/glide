@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-23 14:50+0100\n"
-"PO-Revision-Date: 2026-08-23 16:08+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Estonian <https://hosted.weblate.org/projects/glide/glide/et/"
-">\n"
+"PO-Revision-Date: 2026-08-24 17:41+0000\n"
+"Last-Translator: Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Estonian <https://hosted.weblate.org/projects/glide/glide/et/>"
+"\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -105,120 +105,122 @@ msgstr "Taasesituse juhtnupud"
 
 #: data/net.base_art.Glide.ui:278
 msgid "Toggle between play and pause states"
-msgstr ""
+msgstr "Vaheta esitamise ja peatamise olekuid"
 
 #: data/net.base_art.Glide.ui:284
 msgid "Seek forward"
-msgstr ""
+msgstr "Keri edasi"
 
 #: data/net.base_art.Glide.ui:290
 msgid "Seek backward"
-msgstr ""
+msgstr "Keri tagasi"
 
 #: data/net.base_art.Glide.ui:296
 msgid "Step to next video frame"
-msgstr ""
+msgstr "Hüppa järgmise kaardi juurde"
 
 #: data/net.base_art.Glide.ui:302
 msgid "Increase audio volume"
-msgstr ""
+msgstr "Keera heli valjemaks"
 
 #: data/net.base_art.Glide.ui:308
 msgid "Decrease audio volume"
-msgstr ""
+msgstr "Keera heli vaiksemaks"
 
 #: data/net.base_art.Glide.ui:314
 msgid "Mute the audio track"
-msgstr ""
+msgstr "Summuta heliriba"
 
 #: data/net.base_art.Glide.ui:320
 msgid "Increase playback speed"
-msgstr ""
+msgstr "Suurenda esituskiirust"
 
 #: data/net.base_art.Glide.ui:326
 msgid "Decrease playback speed"
-msgstr ""
+msgstr "Vähenda esituskiirust"
 
 #: data/net.base_art.Glide.ui:333
 msgid "UI controls"
-msgstr ""
+msgstr "Juhtnupud kasutajaliideses"
 
 #: data/net.base_art.Glide.ui:337 data/net.base_art.Glide.ui:343
 #: data/net.base_art.Glide.ui:349
 msgid "Toggle fullscreen mode"
-msgstr ""
+msgstr "Lülita täisekraanvaade sisse/välja"
 
 #: data/net.base_art.Glide.ui:355
 msgid "Exit from fullscreen mode"
-msgstr ""
+msgstr "Välju täisekraanivaatest"
 
 #: data/net.base_art.Glide.ui:361 data/net.base_art.Glide.ui:367
 #: data/net.base_art.Glide.ui:373
 msgid "Exit from the application"
-msgstr ""
+msgstr "Välju rakendusest"
 
 #: data/net.base_art.Glide.ui:379
 msgid "Load a subtitle file"
-msgstr ""
+msgstr "Laadi subtiitrite fail"
 
 #: data/net.base_art.Glide.ui:385
 msgid "Open a new media file"
-msgstr ""
+msgstr "Ava uus multimeediafail"
 
 #: data/net.base_art.Glide.ui:406
 msgid "Audio track synchronization"
-msgstr ""
+msgstr "Heliriba sünkroonimine"
 
 #: data/net.base_art.Glide.ui:420 data/net.base_art.Glide.ui:454
 msgid "Delay in seconds"
-msgstr ""
+msgstr "Viivitus sekundites"
 
 #: data/net.base_art.Glide.ui:440
 msgid "Subtitle track synchronization"
-msgstr ""
+msgstr "Subtiitrite riba sünkroonimine"
 
 #: data/net.base_art.Glide.ui:477
 msgid "Close"
-msgstr ""
+msgstr "Sulge"
 
 #: src/main.rs:746
 msgid "Disable"
-msgstr ""
+msgstr "Lülita välja"
 
 #: src/ui_context.rs:379
 msgid "Choose a file"
-msgstr ""
+msgstr "Vali fail"
 
 #: src/ui_context.rs:380
 msgid "Open"
-msgstr ""
+msgstr "Ava"
 
 #: src/ui_context.rs:605
 msgid ""
 "An error report was saved. If you decide to file a bug, please include the "
 "report file."
 msgstr ""
+"Veaaruanne on salvestatud. Kui peaksid koostama veateate, siis lisa ka see "
+"veaaruanne."
 
 #: src/ui_context.rs:607
 msgid "Missing debug message"
-msgstr ""
+msgstr "Puuduolev veaotsingusõnum"
 
 #: src/ui_context.rs:608
 msgid "Debug informations:"
-msgstr ""
+msgstr "Veaotsingu teave:"
 
 #: src/ui_context.rs:611
 msgid "An error occurred"
-msgstr ""
+msgstr "Tekkis viga"
 
 #: src/ui_context.rs:612
 msgid "Glide failed to play this media file."
-msgstr ""
+msgstr "Glide ei suutnud seda multimeediafaili esitada."
 
 #: src/ui_context.rs:627
 msgid "Cancel"
-msgstr ""
+msgstr "Katkesta"
 
 #: src/ui_context.rs:628
 msgid "Report"
-msgstr ""
+msgstr "Teata"
